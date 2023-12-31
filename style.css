@@ -1,0 +1,13 @@
+.btn-primary {
+  color: #fff;
+  background-color: #6d56d1;
+  border-color: #0b02bb;
+}
+.bg-primary {
+  background-color: #fbfbfb !important;
+}
+.card-img-top {
+  width: 200px;
+  height: 200px;
+  align-items: center;
+}
